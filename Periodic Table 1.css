@@ -1,0 +1,118 @@
+body{
+    font-size: 15.5px;
+}
+section{
+    width: 100%;
+    max-width: 100%;
+    margin: 2px auto ;
+}
+#container{
+    width: 90%;
+}
+.Boron,.box, .boxa, .boxb, .Hydrogen, .boxup, .boxdn, .boxgrn, .Aluminium,
+.Florine, .boxEmUp, .boxEmDn{
+    border: 3px solid black; 
+    border-radius: 5px;
+    max-width: 100px;
+    max-height: 100px; 
+    margin: 2px;
+    line-height: 0.2; 
+    text-align: center; 
+    
+
+    
+}
+
+
+
+/* colors          */
+.boxEmUp{
+background-color: #A4F8CF;
+width: 90px;
+height: 54px;
+}
+.boxEmDn{
+background-color: #36C9C3 ;
+width: 90px;
+height: 54px;
+}
+
+
+.box{
+    background-color: #FF92FF;
+}
+.Florine{
+    background-color: #FD9055;
+}
+.Aluminium{
+    background-color: #FFD0D6;
+}
+.Boron{
+    background-color: #FF979F;
+}
+.Hydrogen{
+    background-color:  #FEFD30;
+}
+
+.boxa{
+    background-color: #28D1F8;
+}
+
+.boxb{
+    background-color: #FECE8D;
+}
+
+.boxup{
+    background-color: #A4F8CF;
+}
+
+.boxdn{
+    background-color: #36C9C3;
+}
+
+.boxgrn{
+    background-color: #5DFF66
+}
+/* colors          */
+
+
+
+
+#panelOne{
+    float: left;
+}
+
+
+
+
+#panelTwo{
+    float: left; 
+    position: relative; 
+    top: 75px; 
+}
+
+.panelThree{
+    float: left; 
+    position: relative; 
+    top: 150px; 
+}
+
+.panelFour{
+    float: left; 
+    position: relative; 
+    top: 75px; 
+}
+
+#panelFive{
+    float: left; 
+}
+
+#lowerContainer{
+    float: center; 
+    margin-top: 20px;
+}
+
+.bottom{
+    float: left; 
+    margin-top: 30px;
+}
